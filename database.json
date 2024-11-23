@@ -1,0 +1,9 @@
+{
+    "daniel": {
+        "username": "daniel",
+        "email": "nwoludaniel.c@gmail.com",
+        "full_name": "nwolu daniel",
+        "disabled": false,
+        "hashed_password": "$2b$12$C0R6XyObF10g29OourSdze4vTMkNamGC.puPp3CEia5ZHEwzX.n5y"
+    }
+}
